@@ -1,0 +1,4 @@
+Calendar, written in Vala
+
+Compile :
+$ valac --pkg gtk+-3.0 calendar.vala
